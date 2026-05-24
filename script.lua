@@ -8,7 +8,7 @@ local CORRECT_KEY = get_key()
 
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1502616531891388547/F7yLB9XMay38cebl2Sw5GHr8sEqNPnA_u5Mh3HA85zi2xoFuLPOESGS_xedllMXiCeQq"
 local DISCORD_LINK = "https://discord.gg/wTuk64E67n"
-local SCRIPT_URL = "https://api.junkie-development.de/api/v1/luascripts/public/3987248819611851230c409b3b8839ff24f455ef7f4337d2e5a1287ad38b29f0/download"
+local SCRIPT_URL = "https://raw.githubusercontent.com/mmq098/MenuHUB/refs/heads/main/MenuHUB.lua"
 
 --// PROTECTOR V15 [STABLE MODE]
 local function Activate_V15_Shield()
