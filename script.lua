@@ -6,7 +6,7 @@ local function decode_data(t) local s = "" for _, v in ipairs(t) do s = s .. str
 
 -- [100% Encrypted & Protected Data]
 local CORRECT_KEY = decode_data({70,82,69,69,45,82,66,74,45,49,88,83,56,65,45,75,86,48,50}) -- FREE-RBJ-1XS8A-KV02
-local SCRIPT_URL  = decode_data({104,116,116,112,115,58,47,47,114,97,119,46,103,105,116,104,117,98,117,115,101,114,99,111,110,116,101,110,116,46,99,111,109,47,109,109,113,48,57,56,47,77,101,110,117,72,85,66,47,114,101,102,115,47,104,101,97,100,115,47,109,97,105,110,47,77,101,110,117,72,85,66,46,108,117,97})
+local SCRIPT_URL = "https://gist.githubusercontent.com/respect7453-stack/55cab8c7fe5c7c5409c1cde4cb53d4d4/raw/5226bbbfca5f9d45f67035f23501b450618b283d/gistfile1.txt"
 
 local DISCORD_LINK = "https://discord.gg/tQdcdbmMjD"
 
